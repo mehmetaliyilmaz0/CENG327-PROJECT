@@ -5,7 +5,7 @@ This project implements a gradient-based edge detection system using Python. It 
 
 Features:
 -Multiple gradient operators (Sobel, Prewitt)
--Automatic threshold determination (Otsu method)
+-Automatic threshold determination (Otsu and adaptive method)
 -Gaussian noise reduction
 -Edge enhancement capabilities
 -Gradient magnitude and direction analysis
