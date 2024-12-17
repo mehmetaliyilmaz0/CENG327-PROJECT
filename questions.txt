@@ -1,0 +1,57 @@
+What is the primary purpose of converting an RGB image to grayscale in edge detection?
+
+a) To reduce storage space
+b) To reduce computational complexity and processing time
+c) To enhance edge visibility
+d) To increase image resolution
+e) To improve color contrast
+
+Correct Answer: b
+
+
+
+In image processing, what does the gradient magnitude represent?
+
+a) The average pixel intensity
+b) The rate and direction of color change at each pixel
+c) The strength of intensity change at each pixel
+d) The noise level in the image
+e) The brightness of the image
+
+Correct Answer: c
+
+
+
+Which of the following best describes the Sobel operator?
+
+a) It's a smoothing filter that reduces noise
+b) It calculates first-order derivatives in both x and y directions
+c) It's used for color correction
+d) It performs image segmentation
+e) It's used for image compression
+
+Correct Answer: b
+
+
+
+Why is adaptive thresholding often preferred over global thresholding?
+
+a) It's faster to compute
+b) It requires less memory
+c) It handles varying lighting conditions better
+d) It always produces binary images
+e) It removes all noise automatically
+
+Correct Answer: c
+
+
+Given a Sobel operator implementation, which mathematical operation is used 
+to compute the final gradient magnitude?
+
+a) Addition of Gx and Gy
+b) Square root of (Gx² + Gy²)
+c) Maximum of Gx and Gy
+d) Average of Gx and Gy
+e) Multiplication of Gx and Gy
+
+Correct Answer: b
