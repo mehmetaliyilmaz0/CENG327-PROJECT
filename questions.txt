@@ -1,57 +1,38 @@
-What is the primary purpose of converting an RGB image to grayscale in edge detection?
-
-a) To reduce storage space
-b) To reduce computational complexity and processing time
-c) To enhance edge visibility
-d) To increase image resolution
-e) To improve color contrast
-
-Correct Answer: b
+What is the primary purpose of applying Gaussian smoothing in image processing?
+A) To increase image resolution
+B) To reduce noise and detail
+C) To enhance color saturation
+D) To convert images to grayscale
+Answer: B) To reduce noise and detail
 
 
-
-In image processing, what does the gradient magnitude represent?
-
-a) The average pixel intensity
-b) The rate and direction of color change at each pixel
-c) The strength of intensity change at each pixel
-d) The noise level in the image
-e) The brightness of the image
-
-Correct Answer: c
+What does the gradient magnitude represent in edge detection?
+A) The color of the edge
+B) The strength of the edge
+C) The direction of the edge
+D) The noise level in the image
+Answer: B) The strength of the edge
 
 
-
-Which of the following best describes the Sobel operator?
-
-a) It's a smoothing filter that reduces noise
-b) It calculates first-order derivatives in both x and y directions
-c) It's used for color correction
-d) It performs image segmentation
-e) It's used for image compression
-
-Correct Answer: b
+How does the Peak Signal-to-Noise Ratio (PSNR) help in evaluating image quality?
+A) It measures the color depth of the image
+B) It compares the original and processed images
+C) It calculates the processing time
+D) It determines the file size of the image
+Answer: B) It compares the original and processed images
 
 
-
-Why is adaptive thresholding often preferred over global thresholding?
-
-a) It's faster to compute
-b) It requires less memory
-c) It handles varying lighting conditions better
-d) It always produces binary images
-e) It removes all noise automatically
-
-Correct Answer: c
+What challenges might arise when detecting edges in images with high noise levels?
+A) Increased processing speed
+B) False edges and reduced accuracy
+C) Improved edge clarity
+D) Enhanced color representation
+Answer: B) False edges and reduced accuracy
 
 
-Given a Sobel operator implementation, which mathematical operation is used 
-to compute the final gradient magnitude?
-
-a) Addition of Gx and Gy
-b) Square root of (Gx² + Gy²)
-c) Maximum of Gx and Gy
-d) Average of Gx and Gy
-e) Multiplication of Gx and Gy
-
-Correct Answer: b
+In what practical applications might edge detection techniques be utilized?
+A) Image compression
+B) Object recognition and computer vision
+C) Color correction
+D) Image resizing
+Answer: B) Object recognition and computer vision
